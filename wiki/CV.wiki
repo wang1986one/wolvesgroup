@@ -1,0 +1,105 @@
+  
+简  历  
+  
+ 
+
+
+ 
+基 本 信 息    
+姓  名：  翟永强 性  别：  男  
+出生日期： 1978年05月25日 居 住 地： 上海市  
+工作年限： 五年以上  户  口：  河北  
+目前年薪： 2万以下人民币  
+地  址：  上海市临沂路港机新村70号205 
+邮  编：  200120 
+电子邮件： easefox@hotmail.com 
+移动电话： 086- 13524145095 
+个人主页： http://cgwolver.cnblogs.com 
+ 
+自 我 评 价    
+  
+熟悉3D图形学，3D数学； 
+ 
+求 职 意 向    
+  
+工作性质： 全职  
+希望行业： 计算机软件，学术/科研，网络游戏  
+目标地点： 上海市  
+期望工资： 15000-19999 /月 
+目标职能： 软件工程师  
+ 
+工 作 经 验    
+2007/09--2008/01：上海皿鎏软件 
+所属行业： 计算机软件  
+研发部  图形引擎开发工程师  
+负责3D图形引擎研发 
+工作业绩： bone-skin animation ( export and rendering ) 
+3d math libarary 
+per-pixel lighting 
+projective texture 
+shadow mapping 
+radiosity global ilumination 
+photon mapping 
+shadow softening 
+blur 
+hdr 
+order-independcy transparency ( depth peeling ) 
+binary space partition 
+octree 
+aabb tree 
+sphere tree 
+frustum culling 
+dynamic resource loading 
+mesh simplification 
+
+--------------------------------------------------------------------------------
+ 
+2004/08--2007/08：上海弈动星科技有限公司 
+所属行业： 计算机软件  
+程序部  游戏程序员  
+负责家用机游戏开发（NGC/PS2/XBOX/PSP/NDS） 
+工作业绩： Midway Arcade Treaures 3: PC(voodoo)到 Nintendo GameCube 移植 
+L.A.Rush(洛城狂飙) : XBOX 到PC 移植 
+Area51(51区): 英文版到俄文版本地化 
+PSP骨骼动画研究 
+
+--------------------------------------------------------------------------------
+ 
+2002/08--2004/04：河北石家庄支点科技有限公司 
+所属行业： 计算机软件  
+技术研发部  3D图形程序员  
+使用VC++，OPENGL 开发3维虚拟现实应用 
+工作业绩： 开发房地产三维虚拟现实展示平台 
+ 
+ 
+教 育 经 历    
+1999/07--2002/07 河北青年管理干部学院  计算机应用   大专  
+ 
+ 
+语 言 能 力    
+英语  良好  
+ 
+ 
+IT 技 能    
+技能名称 熟练程度 使用时间 
+
+--------------------------------------------------------------------------------
+ 
+Visual C++  熟练  60月 
+MFC/ATL  熟练  60月 
+C/C++  熟练  60月 
+ 
+ 
+附 加 信 息    
+个人作品： 预计算辐射度光照图，以及和动态光影的结合 
+(暂无下载) 
+个人作品： 3D 数学库实现(基于C++模板) 
+http://wolvesgroup.googlecode.com/files/MathLibrary.rar 
+个人作品： DirectInput 封装库 
+支持键盘,鼠标,游戏手柄 
+http://wolvesgroup.googlecode.com/files/DirectInputLibrary.rar 
+个人作品： GLSL Shadow Mapping and Projective Texture 
+(需要OpenGL FBO支持) 
+http://wolvesgroup.googlecode.com/files/fbo_test.rar 
+ 
+ 
